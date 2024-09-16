@@ -11,6 +11,12 @@ public class GitMasterCode {
 		//test
 		System.out.println("master is modifying the code");
 		System.out.println("master project name gitstuff");
+		//test1
+		//test1
+		//test1
+		System.out.println("second guy is modifying the code");
+		System.out.println(" project name gitdemo");
+		
 	}
 
 }
